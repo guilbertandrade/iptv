@@ -58,7 +58,7 @@ https://streamlivea.amilpublicidades.com/hls1/cinemax.m3u8?wmsAuthSign=
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX HD" tvg-logo="http://img.starbr.in/1559754776_86c9fb0b20ae009eb96575c87478c74eb229cad5.png" group-title="Filmes e Series",CINEMAX HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/5080.m3u8
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/15555.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://img.starbr.in/1559755433_76b6f1308c3dfca550e4bab589f0710fae32be03.png" group-title="Documentarios",DISCOVERY CHANNEL
@@ -78,7 +78,7 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1082.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/1080.m3u8
+http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoverykids_80e28a51_1bf0c21a5990604dc83c7930af444215e57c9093/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://img.starbr.in/1559755695_f4da80f7ae58b2e08f09f5effb6f2f271657e0af.jpg" group-title="Infantil",DISCOVERY KIDS HD
@@ -86,11 +86,11 @@ http://list.deeplist.nl/live/joaogabriel01/Gabi987654/5081.m3u8
 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/52654.m3u8
+http://iptvencoder.dedicadobrasil.com:25461/live/tvbrasilonline/bG0l3JBb2U/29999.m3u8
 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://img.starbr.in/1559756242_ab48e0dae56c4de49aaf70de3e2dee2ed3f5b268.png" group-title="Infantil",DISNEY CHANNEL HD
-http://list.deeplist.nl/live/joaogabriel01/Gabi987654/38438.m3u8
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_948c3f3f221b33e863d4f4726bcc86ce24719331/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="DISNEY XD" tvg-name="DISNEY XD" tvg-logo="http://img.starbr.in/1559756400_7e24f0c974a5bf4f690d48ef7e7d57af994ea274.png" group-title="Infantil",DISNEY XD
